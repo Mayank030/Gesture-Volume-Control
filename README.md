@@ -1,22 +1,22 @@
-# Gesture-Volume-Control
+# Gesture Volume Control
 
-🎛 Gesture Volume Control
+## 🎛 Gesture Volume Control
 
 Control your system volume using hand gestures with OpenCV & MediaPipe!
 
-📌 Overview
+### 📌 Overview
 
 This project enables users to control their computer’s audio volume using hand gestures. By leveraging Python, OpenCV, MediaPipe, and Pycaw, it tracks hand movements in real-time and adjusts the system volume accordingly.
 
 
-📌 Project Structure
+### 📌 Project Structure
 
 HandTrackingModule.py: Contains the handDetector class with findHands() and findPosition() functions for hand tracking.
 
 VolumeHandControl.py: Imports HandTrackingModule.py and uses its functionalities to control the system volume based on hand gestures.
 
 
-🔧 Features
+### 🔧 Features
 
 ✅ Real-time hand tracking using MediaPipe Hands
 
@@ -28,7 +28,9 @@ VolumeHandControl.py: Imports HandTrackingModule.py and uses its functionalities
 
 ✅ Pycaw to control system volume
 
-🛠 Tech Stack
+
+### 🛠 Tech Stack
+
 Python
 
 OpenCV (for video processing)
@@ -40,7 +42,7 @@ Pycaw (for volume control automation)
 Numpy (for numerical operations)
 
 
-🚀 How It Works
+### 🚀 How It Works
 
 The webcam captures hand movements.
 
