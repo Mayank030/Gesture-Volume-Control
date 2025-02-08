@@ -54,6 +54,7 @@ Pycaw adjusts the system volume accordingly.
 
 
 
-![image]()
+![image](https://github.com/user-attachments/assets/1b090cf3-779a-4d80-87b0-c093eafcabb0)
+
 
 
