@@ -52,3 +52,8 @@ The distance between the thumb and index finger determines the volume level.
 
 Pycaw adjusts the system volume accordingly.
 
+
+
+![image]()
+
+
